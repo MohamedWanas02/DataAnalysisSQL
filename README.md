@@ -1,4 +1,4 @@
-# DataAnalysis With SQL
+# Data Analysis With SQL
 
 This project showcases data cleaning and data exploration using SQL. The objective is to prepare the dataset for analysis by cleaning it and then exploring it to extract meaningful insights.
 
